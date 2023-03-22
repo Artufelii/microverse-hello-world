@@ -39,8 +39,6 @@ Microverse hello world is an app with the porpose of develop the basic skills of
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>HTML</summary>
   <ul>
@@ -59,8 +57,6 @@ Microverse hello world is an app with the porpose of develop the basic skills of
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - it's a basic web page using HTML and CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,8 +65,6 @@ Microverse hello world is an app with the porpose of develop the basic skills of
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://artufelii.github.io/microverse-hello-world/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,8 +72,6 @@ Microverse hello world is an app with the porpose of develop the basic skills of
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 - download the git repository 
@@ -145,6 +137,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+Maybe there are no future features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,9 +155,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project you can follow me on my social media 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,25 +163,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank Microverse team that help me to become a better developer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +172,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
